@@ -147,13 +147,13 @@ body {
             border-radius: 7%;
             background-color: white;
             width: 800px;
-            
+           
         }
- .hotelinfo {
+ /*.hotelinfo {
      text-align: center;
      font-size: 25px;
     
- }
+ }*/
 
  .sorts {
      background-color: white;
@@ -174,4 +174,8 @@ body {
         height: 260px;
             width: 700px;
 
+    }
+    .infos {
+        
+        text-align: center;
     }
