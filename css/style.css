@@ -1,0 +1,45 @@
+body {
+    background-color:white;
+}
+
+
+.title {
+    text-align: center;
+}
+   
+
+
+.table {
+	display: table;   
+    margin: 7rem;
+   
+}
+
+
+	ul#horizontal-list li {
+        display: inline;
+        padding: 7em;
+        
+    }
+    
+    .layout {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+    }
+
+    .content {
+        background-color: aqua;
+       
+    }
+    .search {
+        background-color: rgb(100, 100, 185);
+       
+      
+    }
+
+    .whereto {
+        padding: 10em;
+       
+    }
+    
