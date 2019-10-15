@@ -1,5 +1,6 @@
 body {
     background-color:wheat;
+    font-family: sans-serif;
 }
 
 
@@ -11,22 +12,25 @@ body {
 
 .table {
 	display: table;   
-    margin: 7rem;
-   
+    margin: 4rem;
+    
+    
+    
 }
 
 
 	ul#horizontal-list li {
         display: inline;
         padding: 7em;
-        border: 3px solid blue;
-        padding: 5px;
         
+        padding: 5px;
+       
     }
     
     .layout {
         display: grid;
         grid-template-columns: 0.5fr 1fr ;
+        
         
         
     }
@@ -37,12 +41,16 @@ body {
     }
     .search {
         background-color: rgb(100, 100, 185);
+        text-align: center;
        
       
     }
 
     .whereto {
         padding: 10em;
+        background-color: white;
+        border-radius: 7%;
+        
        
     }
 
@@ -160,7 +168,9 @@ body {
      border-radius: 7%;
      text-align: center;
      font-size: 30px;
-     width: 500px; /* white box in sorts */
+     width: 350px; /* white box in sorts */
+    
+     
      
      
      
@@ -180,4 +190,26 @@ body {
         text-align: center;
         padding: 0rem;
         
+    }
+
+    /*PHONE LAYOUT*/
+    
+    
+    
+    
+    @media screen and (mn-width:800px){
+        .card{
+            flex: 45%;
+            max-width: 45%
+        }
+    }
+    @media screen and (min-width:1024px){
+        .card{
+            flex:18%;
+            max-width:18%;
+        }
+    }
+
+    .foot {
+        text-align: center;
     }
