@@ -58,46 +58,45 @@ body {
 
     .hotelone {
         background-image: url('../img/1.JPG');
-        background-size: contain;
-        background-repeat: no-repeat;
-        height:246px;
-        width: 329px;
-        border-radius: 7%;
-        background-color: white;
-        width: 800px;
-        }
+               }
         .hoteltwo {
             background-image: url('../img/2.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
+           
         }
         .hotelthree {
             background-image: url('../img/3.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
+           
         }
         .hotelfour {
             background-image: url('../img/4.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
+           
         }
         .hotelfive {
             background-image: url('../img/5.JPG');
+           
+        }
+        .hotelsix {
+            background-image: url('../img/6.JPG');
+          
+        }
+        .hotelseven {
+            background-image: url('../img/7.JPG');
+           
+        }
+        .hoteleight {
+            background-image: url('../img/8.JPG');
+           
+        }
+        .hotelnine {
+            background-image: url('../img/9.JPG');
+           
+        }
+        .hotelten {
+            background-image: url('../img/10.JPG');
+            
+           
+        }
+        .design {
             background-size: contain;
             background-repeat: no-repeat;
             height:246px;
@@ -105,59 +104,6 @@ body {
             border-radius: 7%;
             background-color: white;
             width: 800px;
-        }
-        .hotelsix {
-            background-image: url('../img/6.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
-        }
-        .hotelseven {
-            background-image: url('../img/7.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
-        }
-        .hoteleight {
-            background-image: url('../img/8.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
-        }
-        .hotelnine {
-            background-image: url('../img/9.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
-        }
-        .hotelten {
-            background-image: url('../img/10.JPG');
-            background-size: contain;
-            background-repeat: no-repeat;
-            height: 246px;
-            width: 329px;
-            
-            float: left;                    /*moves img left*/
-            border-radius: 7%;
-            background-color: white;
-            width: 800px;
-           
         }
  /*.hotelinfo {
      text-align: center;
